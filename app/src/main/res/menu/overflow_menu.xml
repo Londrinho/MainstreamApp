@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/hostedtelephonyFragment"
+        android:title="@string/hosted_telephony" />
+    <item
+        android:id="@+id/isdnFragment"
+        android:title="@string/hosted_isdn" />
+    <item
+        android:id="@+id/dataandlinesFragment"
+        android:title="@string/data_and_line" />
+    <item
+        android:id="@+id/onsitetelephoneFragment"
+        android:title="@string/onsite_telephony" />
+</menu>
